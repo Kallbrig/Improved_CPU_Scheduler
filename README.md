@@ -1,5 +1,7 @@
 # Improved_CPU_Scheduler
-An implementation of An Improved Round Robin CPU Scheduling Algorithm with Varying Time Quantum (IRRVQ) presented by Manish Kumar Mishra and Dr. Fazur Rashid in their paper by the same name from 2014.
+* An implementation of An Improved Round Robin CPU Scheduling Algorithm with Varying Time Quantum (IRRVQ) presented by Manish Kumar Mishra and Dr. Fazur Rashid in their paper by the same name from 2014.
+
+* The paper that this concept is based on has been uploaded into the repository for easy access.
 
 # What it does
 * Compares the traditional round robin scheduler with an improved round robin scheduler
