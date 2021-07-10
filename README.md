@@ -3,6 +3,8 @@
 
 * The paper that this concept is based on has been uploaded into the repository for easy access.
 
+* This code seems to disporve the idea that IRRVQ is more efficient than standard round robin when a longer queue is used.
+
 # What it does
 * Compares the traditional round robin scheduler with an improved round robin scheduler
 * NOTE -- This implementation only handles 0 arrival time jobs, not varying.
